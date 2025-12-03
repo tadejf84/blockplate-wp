@@ -1,5 +1,5 @@
 @import "./theme/reset.css";
-@import "./theme/global.css";
+@import "./theme/typography.css";
 @import "./theme/components/buttons.css";
 @import "./theme/components/forms.css";
 @import "./theme/layout/header.css";
